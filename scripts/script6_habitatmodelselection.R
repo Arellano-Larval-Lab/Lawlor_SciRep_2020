@@ -8,6 +8,7 @@
 # install libraries
 #-------------------------------------
 library(MuMIn) # for AICc
+library(PNWColors)
 #----
 
 # load data
